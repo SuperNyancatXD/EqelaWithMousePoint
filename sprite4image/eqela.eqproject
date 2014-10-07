@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# sprite4Image
+#
+
+projectname: sprite4Image
+vendorid: com.mycompany
+mainmodule: com.mycompany.sprite4image
